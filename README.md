@@ -7,4 +7,5 @@ GitHub is:
 
 **And the lecturer as well**
 
-!<img width="576" height="576" alt="image" src="https://github.com/user-attachments/assets/60774e96-f883-45ae-8b71-4169d43a83f2" />
+
+!<img width="301" height="167" alt="image" src="https://github.com/user-attachments/assets/6abc901f-b02e-49d9-bbd7-3b8bb9907d4e" />
