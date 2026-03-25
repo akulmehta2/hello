@@ -1,1 +1,8 @@
-# hello
+# hello, welcome to my repository
+
+GitHub is:
+
+- Amazing
+- Fun
+
+**And the lecturer as well**
